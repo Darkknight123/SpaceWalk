@@ -1,0 +1,45 @@
+.home{
+    height: 100vh;
+}
+
+.landing{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 220px;
+}
+
+
+
+.left-landing{
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    height: 382px;
+    margin-left: 30px;
+    
+}
+.travel{
+    font-size: medium;
+    color: #D0D6F9;
+}
+.space{
+    color: white;
+    font-size: 50px;
+}
+.lets{
+    color: #D0D6F9;
+}
+.right-landing{
+    align-items: center;
+    margin-right: 200px;
+}
+.explore{
+    height: 274px; 
+    width: 274px;
+    border-radius: 50%;
+    background-color: white;
+    font-size:32px ;
+    color: black;
+    font-family: Bellefair;
+}
