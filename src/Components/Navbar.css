@@ -1,0 +1,28 @@
+.nav-bar{
+    display:flex;
+    align-items: center;
+    margin-left: 30px;
+    background-color: black;
+    height: 10vh;
+    margin-top: 10px;
+}
+.right{
+    margin-left: 10px;
+}
+.left{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    float: right;
+}
+.nav-links{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    color: white;
+    padding-left: 35rem;
+}
+li{
+    padding-left: 2rem;
+}
