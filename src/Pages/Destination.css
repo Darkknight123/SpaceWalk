@@ -1,0 +1,59 @@
+.nation{
+    height: 100%;
+}
+.dest-land{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.dest-image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+}
+img{
+    margin: 20px;
+}
+.dest-desc{
+    width: 444px;
+    height: 128px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 150px;
+}
+.dest-link{
+    display: flex;
+}
+.links{
+    display: flex;
+    list-style: none;
+      color: #D0D6F9;
+}
+.dest-title{
+    color: whitesmoke;
+}
+span{
+      color: #D0D6F9;
+}
+.numbers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.avg-distance{
+    margin-right: 30px;
+}
+.avg-name{
+    font-size: 12px;
+       color: #D0D6F9;
+}
+.avg-num{
+    color: white;
+    font-size: 20px;
+}
