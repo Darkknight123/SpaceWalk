@@ -4,7 +4,7 @@
 .dest-land{
     display: flex;
     margin-top: 70px;
-    margin-left: 50px;
+    margin-left: 50px;  
 }
 .dest-image{
     display: flex;
@@ -14,8 +14,10 @@
     color: white;
     font-size: 12px;
 }
-img{
+.moon{
     margin: 20px;
+    width: 445px;
+    height: 445px;
 }
 .dest-desc{
     width: 444px;
@@ -30,6 +32,7 @@ img{
     display: flex;
 }
 .links{
+    cursor: pointer;
     display: flex;
     list-style: none;
       color: #D0D6F9;

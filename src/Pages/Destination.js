@@ -11,7 +11,7 @@ function Destination() {
         <div className='dest-land'>
             <div className='dest-image'>
                 <h1>01 PICK YOUR DESTINATION</h1>
-                <img src={Dest}/>
+                <img src={Dest} className="moon"/>
             </div>
         <div className='dest-desc'>
             <div className='dest-link'>
